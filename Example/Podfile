@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WBEfficientBox_Example' do
+  pod 'WBEfficientBox', :path => '../'
+
+  target 'WBEfficientBox_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
