@@ -1,0 +1,6 @@
+framework module Pods_WBEfficientBox_Tests {
+  umbrella header "Pods-WBEfficientBox_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

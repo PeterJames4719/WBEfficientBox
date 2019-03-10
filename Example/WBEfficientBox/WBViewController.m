@@ -7,6 +7,7 @@
 //
 
 #import "WBViewController.h"
+#import <WBEfficientBox/UIView+wbLayout.h>
 
 @interface WBViewController ()
 
@@ -17,6 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    int height = self.view.height;
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

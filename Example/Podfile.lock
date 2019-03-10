@@ -1,0 +1,16 @@
+PODS:
+  - WBEfficientBox (1.0)
+
+DEPENDENCIES:
+  - WBEfficientBox (from `../`)
+
+EXTERNAL SOURCES:
+  WBEfficientBox:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WBEfficientBox: b7c88509f654537b239e6ff627121fa6b260b3e0
+
+PODFILE CHECKSUM: e110c9d25ae82cf51b00af6bf1e5d13178d5080a
+
+COCOAPODS: 1.4.0
